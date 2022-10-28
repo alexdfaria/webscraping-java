@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BitLogic.iml" filepath="$PROJECT_DIR$/BitLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webscraping-java.iml" filepath="$PROJECT_DIR$/webscraping-java.iml" />
     </modules>
   </component>
 </project>
